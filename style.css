@@ -157,3 +157,13 @@
     color: black;
     margin-bottom: 10px;
 }
+.modal-header{
+   height: 0px;
+}
+
+#modal-image {
+    background-image: url('cover2.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px 170px;
+   
+}
