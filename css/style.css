@@ -162,8 +162,101 @@
 }
 
 #modal-image {
-    background-image: url('cover2.jpg');
+    background-image: url('/img/cover2.jpg');
     background-repeat: no-repeat;
     background-size: 300px 170px;
+}
+.picture{
+    width: 700px;
+    height: 300px;
+    margin-left:530px;
+   
+    
+}
+.hiva{
+    text-align: right;
+    margin-top:10px;
+   
+    
+}
+.hazineh{
+    padding-left:80px;
+    
+    color: grey;
+  font-size: small;
+  
+    
+}
+.zaman{
+    padding-left:250px;
+    margin-bottom: 4000px;
+    padding-bottom: 300px;
+    font-size: medium;
+}
+.nazar{
+    height:30px;
+    width:50px;
+    padding-top: 10px;
+}
+.ss{
+    text-align: right;
+  border: 1px solid gainsboro;
+  height:40px;
+  border-radius: 5px;
+  margin-left:900px;
+  width:300px;
+  margin-top: 10px;
+  margin-bottom: 100px;
+  text-align: right;
+}
+.container{
+    width: 500px;
+    height: 400px;
+    background-color:ghostwhite;
+    padding-left: 300px;
+    margin-left: 400px;
+
+}
+.kadr{
+    width: 300px;
+}
+.pic{
+    width:80px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    border-radius: 80px;
+}
+.dashbar:hover{
+color: darkgray;
+cursor: pointer;
+transform: scale(1.1);
+z-index: 10;
+}
+.time{
+    text-align: left;
+}
+.food{
+    color: red;
+     padding-left:400px;
+     padding-top:30px;
+}
+.hazineh1{
+    padding-right: 20px;
+    color: grey;
+    font-size: small;
+}
+.back-ground{
+    width: 700px;
+    height: 300px;
+    margin-left:530px;
+}
+.button-on-ground{
+    width: 90px;
+    height:45px;
+    border-radius:8px;
+   margin-left: 30px;
+   margin-top: 20px;
+   padding-top: 10px;
+   font-size: smaller;
    
 }
